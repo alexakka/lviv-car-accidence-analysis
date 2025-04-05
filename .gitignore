@@ -8,3 +8,7 @@ Pipfile.lock
 .ipynb_checkpoints/
 .profile_default/
 ipython_config.py
+
+
+# files
+needed.txt
